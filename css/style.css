@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@400;700&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.container{
+    margin: 0 auto;
+}
+
+
+/* -----------------------------------------PAGE-1---------------------------------------- */
+.page-1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.page-1-logo{
+    width: 100%;
+}
+.page-1-main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-1-main-left h1{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+.page-1-img{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+.page-1-img .ellipse{
+    position: absolute;
+    z-index: -1;
+}
+.page-1-footer{
+    display: flex;
+    width: 100%;
+}
+.page-1-footer-text{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #1E4681;
+    color: white;
+    font-weight: 400;
+    line-height: 130%;
+}
+.page-1-footer-text p{
+    margin:0;
+    font-family: 'Roboto Slab', serif;
+}
+.page-1-footer-author{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+
+/* --------------------------------------PAGE-2----------------------------------------------------- */
+.page-2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.page-2-header{
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+.page-2-header h1{
+    margin: 0;
+    font-weight: 700;
+    line-height: 101.38%;
+}
+.page-2-main{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.page-2-section{
+    font-weight: 400;
+    line-height: 150%;
+}
+.page-2-image {
+    display: flex;
+    position: relative;
+}
+.page-2-foto-1-1{
+    width: 314px;
+    height: 314px;
+}
+.ellipse-2{
+    position: absolute;
+    z-index: -1;
+}
+.page-2-footer{
+    width: 84%;
+    display: flex;
+    justify-content: space-between;
+}
+.page-2-footer-p{
+    display: flex;
+    align-items: center;
+}
+.page-2-footer-p div{
+    font-weight: 400;
+    line-height: 130%;
+}
+.page-2-footer-p h3{
+    font-weight: 700;
+    line-height: 130%;
+}
+.ellipse-3{
+    width: 250px;
+    height: 59px;
+    position: relative;
+    top: -35px;
+    left: 0px;
+    z-index: -1;
+
+
+/* --------------------------------------------------------PAGE-3--------------------------------------------- */
+}

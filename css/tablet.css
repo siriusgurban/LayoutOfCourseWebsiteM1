@@ -1,0 +1,457 @@
+@media (min-width: 993px) and (max-width: 1280px){
+
+    /* --------------------------PAGE-1------------------------------------ */
+
+    .container{
+        width: 834px;
+    }
+    .page-1{
+        margin-bottom: 100px;
+    }
+    .page-1-logo{
+        margin-top: 22px;
+        margin-bottom: 57px;
+    }
+    .page-1-logo img{
+        width: 64px;
+        height: 38px;
+    }
+    .page-1-main{
+        width: 622px;
+        height: 260px;
+    }
+    .page-1-main-left-date span{
+        margin-right: 12px;
+    }
+    .page-1-main-left{
+        width: 363px;
+        font-size: 12px;
+    }
+    .page-1-main-left h1{
+        font-size: 46px;
+        margin-top: 7px;
+    }
+    .page-1-main-left-date img{
+        width: 12px;
+        height: 12px;
+    }
+    .page-1-img{
+        width: 176px;
+    }
+    .page-1-img .noroot{
+        width: 176px;
+        height: 206px;
+    }
+    .page-1-img .ellipse{
+        width: 158px;
+        height: 23px;
+        top: 220px;
+        left: 20px;
+    }
+    .page-1-footer-text{
+        padding: 20px 26px;
+        margin-left: 130px;
+        width: 280px;
+        height: 115px;
+        border-radius: 2px;
+        font-size: 14px;
+    }
+    .page-1-footer-author{
+        font-size: 12px;
+    }
+
+    /* ---------------------------------------------PAGE-2------------------------------------ */
+    .page-2-header h1{
+        font-size: 32px;
+    }
+    .page-2-main{
+        justify-content: space-between;
+        height: 350px;
+        margin-bottom: 54px;
+    }
+    .page-2-section{
+        width: 383px;
+        height: 216px;
+        font-size: 14px;
+    }
+    .page-2-image {
+        width: 181px;
+        height: 182px;
+        margin-right: 88px;
+    }
+    .page-2-foto-1-1{
+        width: 181px;
+        height: 182px;
+    }
+    .ellipse-2{
+        width: 211px;
+        height: 34px;
+        top: 165px;
+        left: -18px;
+    }
+    .ellipse-3{
+        width: 140px;
+    }
+    .page-2-footer{
+        margin-bottom: 103px;
+    }
+    .page-2-footer-img{
+        width: 134px;
+        height: 117px;
+    }
+    .page-2-footer-p div{
+        width: 97px;
+        height: 90px;
+        font-size: 11px;
+        margin-right: 55px;
+    }
+    .page-2-footer-p h3{
+        font-size: 15px;
+    }
+    /* --------------------------PAGE-3----start-------------------------- */
+
+    .container{
+        max-width: 834px;
+        margin: auto 70px;
+    }
+
+    h3{
+        font-family: 'Roboto Slab', serif;
+        font-size: 32px;
+        font-weight: 700;
+        margin-top: 130px;
+        margin-bottom: 56px;
+     }
+     
+     .format-body--head{
+         font-family: 'Roboto', sans-serif;
+         font-size: 16px;
+         font-weight: 700;
+         margin-bottom: 18px;
+         color: #1E4681;
+     }
+     
+     .format-body--content{
+         font-family: 'Roboto', sans-serif;
+         font-size: 12px;
+         font-weight: 400;
+         width: 160px;
+         margin-right: 56px;
+         line-height: 14px;
+     }
+     
+     .format-body{
+         display: flex;
+     }
+     
+     li{
+         font-family: 'Roboto', sans-serif;
+         font-size: 14px;
+         font-weight: 400;
+         line-height: 20px;
+         width: 384px;
+     }
+
+     .container-3-1{
+        padding-bottom: 228px;
+     }
+
+    /* --------------------------PAGE-3-----end------------------------- */
+     /* --------------------------Section_program------------------------------ */
+  .section_program {
+    width: 100%;
+    height: 426px;
+  }
+  .cards {
+    width: 778px;
+    height: 645px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .cards_item {
+    width: 231px;
+    height: 190px;
+    margin: 25px 0 0 21px;
+    border-radius: 17px;
+    box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+  }
+  .cards_image {
+    width: 231px;
+    height: 92px;
+  }
+  .cards_item h2 {
+    margin: 6px 0 18px 11px;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .cards_item p {
+    margin-left: 19px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .last_item p {
+    margin-top: -15px;
+  }
+  .header_text h1 {
+    font-size: 32px;
+    margin: 16px 0 50px 121px;
+    font-family: Roboto-Slab;
+    font-weight: 700;
+  }
+  /* --------------------------Section_program------------------------------ */
+
+  .kmrnSection {
+    background-color: #EFEFEF;
+    height: 452px;
+    width: 993px;
+    margin-top:400px;
+  }
+  
+  
+  .kmrnHead {
+    font-family: "roboto slab";
+    font-weight: 700;
+    font-size: 32px;
+    margin-left: 70px;
+    margin-bottom: 36px;
+    padding-top: 3px;
+    color: black;
+  
+  }
+
+  .kmrnHeadP{
+    font-family: "roboto slab";
+    font-weight: 700;
+    font-size: 32px;
+  }
+  
+  .kmrnBox {
+  
+    padding: 1%;
+    margin-left: 72px;
+    width: 458px;
+    height: 262px;
+  
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+  }
+  
+  .kmrnAbout{
+    
+    margin: 25px;
+    margin-bottom: 0px;
+  
+    font-weight: 400;
+    font-size: 12px;
+    font-family: "roboto";
+    font-style: black;
+    line-height: 18px;
+  }
+  
+  .kmrnH3 {
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    margin: 0;
+    position: relative;
+    left: 30%;
+    bottom: 35%;
+  }
+  
+  .kmrnFoto1{
+    margin-top: 15px;
+    margin-left: 26px;
+    width: 110px;
+    height: 96px;
+  }
+  
+  .kmrnFoto2{
+    /* margin-left: 15px; */
+    margin-bottom: 30px;
+    width: 18px;
+    height: 18px;
+  }
+
+
+  /*-- ----------------------Section_5------start------------------------*/
+
+  
+
+  .block5{
+    background-color: #9DC9C8;
+    width: 993px;
+    height: 452px;
+    }
+    
+    .block5-h1{
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    margin: 0;
+    }
+    
+    .block5-h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 54px;
+    margin-bottom: 0;
+    }
+    
+    .block5-h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    margin: 0;
+    }
+    
+    .block5-content{
+    padding-top: 104px;
+    padding-left: 70px;
+    padding-bottom: 108px;
+    }
+    
+    .block5-left{
+      
+    }
+    
+    .block5-right{
+        width: 170px;
+        height: 40px;
+  
+    }
+    
+    .block5-container{
+        display: flex;
+    }
+    
+    .block5-h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    }
+    
+    p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    }
+
+    /* ------------------------------------------------------- */
+    
+    .block5-item{
+    padding-top: 28px;
+    padding-left: 70px;
+    padding-bottom: 18px;
+    }
+    
+    .block5-logo{
+    width: 60px;
+    height: 40px;
+    margin-right: 70px;
+    }
+    
+    .instagram{
+    width: 20px;
+    height: 20px;
+    margin-top: 0px;
+    margin-right: 10px;
+    }
+    
+    .block5-left-item{
+    display: block;
+    padding: 10px auto -10px auto;
+    }
+    
+    .block5-footer{
+    width: 993px;
+    height: 224px;
+    background: #000000;
+    }
+    
+    .fb{
+      width: 20px;
+      height: 20px;
+    margin-right: 10px;
+    }
+    
+    .vk{
+      width: 20px;
+      height: 20px;
+    margin-right: 10px;
+    }
+    
+    .viber{
+      width: 20px;
+      height: 20px;
+    }
+    
+    .company{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    margin-top: 70px;
+    color: white;
+    margin-bottom: 0;
+    }
+    
+    .block5-phone{
+    width: 15px;
+    height: 15px;
+    margin-right: 22px;
+    }
+    
+    .block5-item-position{
+    display: flex;
+    }
+    
+    .block5-number{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    }
+    
+    .block5-right-item{
+      padding-left: 360px;
+    display: block;
+    }
+    
+    .block5-messege{
+    width: 15px;
+    height: 10px;
+    margin-right: 22px;
+    }
+    
+    .block5-mail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    }
+    
+    .block5-item1{
+        display: flex;
+    }
+    
+    .block5-item2{
+        display: flex;
+        margin-top: 25px;
+    }
+    
+
+  /*-- ----------------------Section_5-------end-----------------------*/
+
+}
